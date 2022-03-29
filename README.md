@@ -12,10 +12,13 @@ https://camo.githubusercontent.com/a3bbc59f190482c45788b1d213d1dc1b8f426691e0e63
 
 ### Projects
 
+<a href='https://github.com/ET45/JumpGame'>⊂(o•ิ▂ ñ*)づ</a><b>Jump Game</b>
+
+Small jumping game I made to be more familiar with Vanilla JavaScript. Enjoy!!!! <a href='https://glittery-klepon-901ef2.netlify.app/'>Play</a> 
 
 <a href='https://github.com/ET45/Portfolio-Frontend'>⚔︎</a><b>CryptoVenturers</b><a href='https://github.com/ET45/Portfolio-Frontend'>⚔︎</a>
 
-Small RPG game project that I am currently working on, where I used characters from my NFT collecttion <a href='https://opensea.io/collection/cryptoventurers'> CryptoVenturers</a>. You can also create your own character and join the game!!!
+Small RPG game project that I am still working on, where I used characters from my NFT collecttion <a href='https://opensea.io/collection/cryptoventurers'> CryptoVenturers</a>. You can also create your own character and join the game!!!
 
 
 <a href='https://github.com/ursmoore/WWTHSOYDHT_Frontend'>🚣</a><b>We Went Trough Hell So You Don't Have To</b></a>
