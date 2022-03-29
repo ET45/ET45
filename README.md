@@ -12,7 +12,7 @@ https://camo.githubusercontent.com/a3bbc59f190482c45788b1d213d1dc1b8f426691e0e63
 
 ### Projects
 
-<a href='https://github.com/ET45/JumpGame'>⊂(o•ิ▂ ñ*)づ</a><b>Jump Game</b>
+<b>Jump Game</b><a href='https://github.com/ET45/JumpGame'>⊂(o•ิ▂ ñ*)づ</a>
 
 Small jumping game I made to be more familiar with Vanilla JavaScript. Enjoy!!!! <a href='https://glittery-klepon-901ef2.netlify.app/'>Play</a> 
 
