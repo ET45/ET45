@@ -14,7 +14,7 @@ https://camo.githubusercontent.com/a3bbc59f190482c45788b1d213d1dc1b8f426691e0e63
 
 <b>Clash of Warriors</b><a href='https://github.com/ET45/Clash-of-Warriors'>༼ಥل͟ಥ༽▬ι═════>-════ι▬(•̀_•́ผ)</a>
 
-Two player fight game to fight with your friend. 
+Two player fight game to play with your friend. 
 
 PLAYER 1: W: Jump, A: Left, D: Right, S:Attack,
 
