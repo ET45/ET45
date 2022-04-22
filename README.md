@@ -19,9 +19,9 @@ Two player fight game to play with your friend.
 PLAYER 1: W: Jump, A: Left, D: Right, S:Attack,
 
 PLAYER 2: UpArrow: Jump, LeftArrow: Left, RighArrow: Right, DownArrow:Attack
-Give it a try and enjoy !!!! 
 
-<a href='https://clashofwarriors.netlify.app/'>Play</a>
+
+Give it a try and enjoy !!!! <a href='https://clashofwarriors.netlify.app/'>Play</a>
   
 
 <b>Jump Game</b><a href='https://github.com/ET45/JumpGame'>⊂(o•ิ▂ ñ*)づ</a>
