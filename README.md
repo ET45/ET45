@@ -28,6 +28,10 @@ Give it a try and enjoy !!!! <a href='https://clashofwarriors.netlify.app/'>Play
 
 Small jumping game I made to be more familiar with Vanilla JavaScript. Enjoy!!!! <a href='https://glittery-klepon-901ef2.netlify.app/'>Play</a> 
 
+<b>Flappy Dragon</b><a href='https://github.com/ET45/FlappyDragon'>🐉</a>
+
+Flappy Bird but with a Dragon! Enjoy!!! <a href='https://warm-entremet-8d5613.netlify.app/'>Play</a>
+
 <a href='https://github.com/ET45/Portfolio-Frontend'>⚔︎</a><b>CryptoVenturers</b><a href='https://github.com/ET45/Portfolio-Frontend'>⚔︎</a>
 
 Small RPG game project that I am still working on, where I used characters from my NFT collecttion <a href='https://opensea.io/collection/cryptoventurers'> CryptoVenturers</a>. You can also create your own character and join the game!!!
